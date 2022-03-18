@@ -1,6 +1,6 @@
 # env-var-validation-example
 
-A basic express.js application which uses [@hapi/joi](https://www.npmjs.com/package/@hapi/joi) to validate environment variables on application startup. 
+A basic express.js application which uses [joi](https://www.npmjs.com/package/joi) to validate environment variables on application startup. 
 
 # Getting started
 

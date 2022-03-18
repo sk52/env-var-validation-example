@@ -1,4 +1,4 @@
-const Joi = require('@hapi/joi');
+const Joi = require('joi');
 
 function validateConfig(envVars) {
     const envSchema = Joi.object().keys({
